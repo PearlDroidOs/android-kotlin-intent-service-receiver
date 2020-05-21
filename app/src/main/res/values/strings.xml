@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentServiceReceiver</string>
+    <string name="des_device">Description Device</string>
+    <string name="des_label">Description Admin Label</string>
+
+
+</resources>
